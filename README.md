@@ -1,2 +1,2 @@
-# just-inventory
+# Just-Inventory
 Just-Friday Inventory 
